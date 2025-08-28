@@ -1,0 +1,2 @@
+# verificador-adrones
+mondongo asesino
